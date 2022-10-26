@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622660577 source:c:\codeblocks\new_projets\jeu-de-moulin-minimax\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+
